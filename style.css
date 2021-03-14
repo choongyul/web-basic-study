@@ -59,11 +59,11 @@ ol li:hover::before {
     width: 100%;
 }
 
-ol li:nth-child(1)::before{
+ol a:nth-child(1) li::before{
     background-color: #4285f4;
 }
 
-ol li:nth-child(2)::before{
+ol a:nth-child(2) li::before{
     background-color: #db4437;
 }
 
